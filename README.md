@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vikash Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Entrepreneur with damn good tech skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashpatel04&label=Profile%20views&color=0e75b6&style=flat" alt="vikashpatel04" /> </p>
 
